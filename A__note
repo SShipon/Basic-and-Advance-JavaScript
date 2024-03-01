@@ -1,0 +1,11 @@
+/* 
+day one slice and splice 
+day 2: map filter; 
+day 3: reduce and spread & Rest
+day 4: deep copy vs shallow copy
+*/
+
+<section style={{
+    background: `url(${appointment})`
+}} 
+</section>
